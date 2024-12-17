@@ -24,4 +24,5 @@
 
 -   Implement a toast component to display errors to the client
 -   Handle a wack error where some posts have the same key after mapping
+- I might or might not have forgotten to manually refresh the access token in some operations (or maybe all of them) and am relying solely on the client's silent refresh which is kinda disastrous lmao
 -   Write better docs (and the **About** page, or just scrap it entirely lol)
