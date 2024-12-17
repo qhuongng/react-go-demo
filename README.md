@@ -14,7 +14,7 @@
 
 1. Navigate to the `frontend` folder, make a copy of the `.env.template` file and rename it to `.env`, then add in your server's URL.
 
-    - Assuming nothing was changed including the `PORT` value in the backend's `.env` file, it should be http://localhost:8080/api/v1).
+    - Assuming nothing was changed including the `PORT` value in the backend's `.env` file, it should be http://localhost:8080/api/v1.
 
 2. Run `npm i`.
 
